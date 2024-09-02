@@ -36,7 +36,9 @@ Enbale Vertex AI API in the GCP project, increase its quota if possible (default
 0. If you want to reannotate the drugs in the trial data, create a config.yaml in the directory and fill in the following information:
 
 >  umls_token: [YOUR_UMLS_TOKEN]
+
 > google_sheet_id: [YOUR_MANUAL_CURATION_SHEET_ID]
+
 > google_sheet_node_name: [YOUR_MANUAL_CURATION_SHEET_NAME]
 
   
